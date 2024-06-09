@@ -1,0 +1,16 @@
+/* Custom styles */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
